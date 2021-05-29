@@ -1,0 +1,6 @@
+Essa versão do Redis não funfa no windows, para fazer esse programa funfar, use: https://www.memurai.com/
+
+Para tal, deverá ser mudado o banco indicado no projeto
+
+Mais informações:
+https://stackoverflow.com/questions/62786988/redis-err-unknown-command-bzpopmin
